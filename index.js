@@ -34,4 +34,3 @@ var mixedCase = 'Hi there!'
      return "I love you, too."
    }
  }
-
