@@ -24,6 +24,3 @@ if (lowercase) {
   if (uppercase){
   return "YES INDEED!"
 }
-
-
-
